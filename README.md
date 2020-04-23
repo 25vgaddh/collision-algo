@@ -1,2 +1,2 @@
-# collision-algo
-collision algo in visual studio code
+# collisionAlgorithm
+Algorithm to detect collision between two objects
